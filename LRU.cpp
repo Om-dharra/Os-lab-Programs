@@ -48,4 +48,4 @@ for(int i:arr)
 cout<<page_faults; 
 } 
 
-// This code is contributed by Akshit Saxena 
+
